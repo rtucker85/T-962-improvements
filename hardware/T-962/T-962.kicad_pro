@@ -348,6 +348,10 @@
     [
       "23a12a51-fba8-49e2-be7f-9dd330910af6",
       "SYSTEM"
+    ],
+    [
+      "41e5066c-b964-48e2-a4b4-5457b1d80b37",
+      "PSU"
     ]
   ],
   "text_variables": {}
